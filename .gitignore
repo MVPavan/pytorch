@@ -1,2 +1,4 @@
 *_tutorial
 *.vscode*
+*__pycache__*
+*datasets/*
